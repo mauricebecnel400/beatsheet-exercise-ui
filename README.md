@@ -18,5 +18,6 @@
 3) input validation and sanitation
 4) error handling for all api calls
 5) deploy to verel
-6) inline editing for Beats (instead of modal)
-7) add react query for caching
+6) add drage and drop events to change order of beats in an given act
+7) inline editing for Beats (instead of modal)
+8) add react query for caching
