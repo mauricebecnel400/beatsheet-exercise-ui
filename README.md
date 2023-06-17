@@ -3,11 +3,13 @@
 
 1) start docker container from https://github.com/fmatar/beatsheet-exercise 
 
-2) open `.env.local` and update `VITE_BEAT_SHEET_API_HOST` to whatever port the container is running on
+2) clone down repo
 
-3) run `npm install`
+3) open `.env.local` and update `VITE_BEAT_SHEET_API_HOST` to whatever port the container is running on
 
-4) run `npm run dev`
+4) run `npm install`
+
+5) run `npm run dev`
 
 
 ## Todos:
