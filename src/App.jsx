@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import BeatSheetPage from './views/BeatSheet';
 import './App.css'
 
 function App() {
@@ -6,12 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Beat Sheet Exercise</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-      </div>
+       <BeatSheetPage />
     </>
   )
 }
